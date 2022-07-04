@@ -1,0 +1,113 @@
+.boby{
+    background-color: #74CFC6;
+    font-family: Verdana;
+    margin: 0px;   
+    background-color: rgb(23, 14, 2);
+}
+
+.topo{
+     text-align: center;
+     background: rgba(13, 84, 63, 0.258);
+     padding: 10px;
+     border: 1px solid rgb(4, 4, 4);
+     margin: 0px;
+     border-radius: 0px 0px;
+     margin-bottom: 3px;
+     max-width: auto;
+     margin: auto;
+ 
+}
+
+
+.photoderosto{
+    flex-wrap: nowrap;
+    border: 3px solid black;
+    border-radius: 50%;
+}
+
+.nome{
+    font-size: 35px;
+    font-family: times;
+    font-style: italic;
+    color: #40584a;
+    text-align: center;
+}
+
+    
+
+#title, .subtitle, .post, .fundo{
+    color pink;
+}
+
+a{
+    text-decoration: line-through; 
+        color: #40584a;
+}
+
+#title{
+    font-size: 40px;
+    text-transform: uppercase;
+    text-align: center;
+    color: black;
+}
+
+
+
+#title{
+    color: #40584a;
+    font-size: 20px;
+
+
+}
+
+
+.subtitle{
+    color: #40584a;
+    font-size: 20px;
+    padding: 3%;
+    margin: auto;
+    text-align: center;
+        
+}
+
+.fundo{
+    background: #CDE5EC;
+    padding: 10px;
+    border: 3px solid black;
+    margin: 15px;
+    border-radius: 5px 15px;
+    margin-bottom: 15px;
+    max-width: 1100px;
+    margin: auto;
+
+}
+
+.post{
+    color; block-size: 20px;
+    font-size: 22px;
+    padding: 30px;
+    margin: 0px;
+    color: #40584a;
+    
+}
+
+.post_content{
+margin: 15px;
+margin-bottom: 20px;
+text-transform: capitalize;
+
+}
+.post_img{
+    margin-bottom: 15px;
+}
+
+.list{
+    list-style-type: none;
+    padding-left: 30px;
+}
+
+.list li a {
+    color: blue;
+    text-decoration: none;
+    margin: 50%;
+}
